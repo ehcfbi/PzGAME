@@ -5,3 +5,7 @@
   text-decoration: none;
   color: white;
 }
+
+.flex{
+  display: flex;
+}
